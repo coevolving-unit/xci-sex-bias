@@ -23,5 +23,5 @@ The following data files are expected:
 
 ```
 # Create sex-specific splici transcriptomes and references
-bash scripts/Rscripts.sh
+scripts/Rscripts.R
 ```
